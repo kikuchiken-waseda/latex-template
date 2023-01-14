@@ -1,0 +1,1 @@
+cp .devcontainer/.latexmkrc ~/.
